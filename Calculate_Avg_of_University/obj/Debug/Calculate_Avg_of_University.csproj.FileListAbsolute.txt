@@ -6,3 +6,11 @@ C:\Users\Summer\source\repos\Calculate_Avg_of_University\Calculate_Avg_of_Univer
 C:\Users\Summer\source\repos\Calculate_Avg_of_University\Calculate_Avg_of_University\obj\Debug\Calculate_Avg_of_University.csproj.CoreCompileInputs.cache
 C:\Users\Summer\source\repos\Calculate_Avg_of_University\Calculate_Avg_of_University\obj\Debug\Calculate_Avg_of_University.exe
 C:\Users\Summer\source\repos\Calculate_Avg_of_University\Calculate_Avg_of_University\obj\Debug\Calculate_Avg_of_University.pdb
+C:\Users\Summer\Documents\GitHub\Calculate-the-Term-module\Calculate_Avg_of_University\bin\Debug\Calculate_Avg_of_University.exe.config
+C:\Users\Summer\Documents\GitHub\Calculate-the-Term-module\Calculate_Avg_of_University\bin\Debug\Calculate_Avg_of_University.exe
+C:\Users\Summer\Documents\GitHub\Calculate-the-Term-module\Calculate_Avg_of_University\bin\Debug\Calculate_Avg_of_University.pdb
+C:\Users\Summer\Documents\GitHub\Calculate-the-Term-module\Calculate_Avg_of_University\obj\Debug\Calculate_Avg_of_University.csproj.AssemblyReference.cache
+C:\Users\Summer\Documents\GitHub\Calculate-the-Term-module\Calculate_Avg_of_University\obj\Debug\Calculate_Avg_of_University.csproj.SuggestedBindingRedirects.cache
+C:\Users\Summer\Documents\GitHub\Calculate-the-Term-module\Calculate_Avg_of_University\obj\Debug\Calculate_Avg_of_University.csproj.CoreCompileInputs.cache
+C:\Users\Summer\Documents\GitHub\Calculate-the-Term-module\Calculate_Avg_of_University\obj\Debug\Calculate_Avg_of_University.exe
+C:\Users\Summer\Documents\GitHub\Calculate-the-Term-module\Calculate_Avg_of_University\obj\Debug\Calculate_Avg_of_University.pdb

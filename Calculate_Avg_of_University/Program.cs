@@ -16,7 +16,7 @@ namespace Calculate_Avg_of_University
             List<double> listNum = new List<double>();
             List<string> listName = new List<string>();
             List<int> listMod = new List<int>();
-
+            
             do
             {
                 /*
